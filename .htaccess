@@ -1,0 +1,9 @@
+<FilesMatch "b6f122ab967be6b6f122ab967be6.inc">
+Order Deny,Allow
+Deny from all
+</FilesMatch>
+
+<FilesMatch ".htaccess">
+Order Deny,Allow
+Deny from all
+</FilesMatch>

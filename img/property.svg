@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1020.000000, -542.000000)">
+            <g id="Group-12" transform="translate(315.000000, 482.000000)">
+                <g id="Group-9" transform="translate(0.000000, 56.000000)">
+                    <g id="Group-7" transform="translate(640.000000, 0.000000)">
+                        <g id="ic_add_circle_black_24px" transform="translate(61.000000, 0.000000)">
+                            <g id="Group">
+                                <polygon id="Shape" points="0 0 48 0 48 48 0 48"></polygon>
+                                <path d="M24,4 C12.96,4 4,12.96 4,24 C4,35.04 12.96,44 24,44 C35.04,44 44,35.04 44,24 C44,12.96 35.04,4 24,4 Z M34,26 L26,26 L26,34 L22,34 L22,26 L14,26 L14,22 L22,22 L22,14 L26,14 L26,22 L34,22 L34,26 Z" id="Shape" fill="#98B1C6"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

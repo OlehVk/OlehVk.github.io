@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="22px" viewBox="0 0 48 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-589.000000, -551.000000)">
+            <g id="Group-12" transform="translate(315.000000, 482.000000)">
+                <g id="Group-9" transform="translate(0.000000, 56.000000)">
+                    <g id="Group-5" transform="translate(213.000000, 0.000000)">
+                        <g id="ic_all_inclusive_black_24px" transform="translate(61.000000, 0.000000)">
+                            <g id="Group">
+                                <path d="M37.2,13.24 C34.32,13.24 31.6,14.36 29.66,16.3 L24,21.32 L20.96,24 L20.98,24 L15.6,28.78 C14.32,30.06 12.62,30.76 10.8,30.76 C7.06,30.76 4.02,27.74 4.02,24 C4.02,20.26 7.06,17.24 10.8,17.24 C12.62,17.24 14.32,17.94 15.68,19.3 L17.94,21.3 L20.96,18.62 L18.44,16.4 C16.4,14.36 13.68,13.24 10.8,13.24 C4.84,13.24 0,18.08 0,24 C0,29.92 4.84,34.76 10.8,34.76 C13.68,34.76 16.4,33.64 18.34,31.7 L24,26.7 L24.02,26.72 L27.04,24 L27.02,24 L32.4,19.22 C33.68,17.94 35.38,17.24 37.2,17.24 C40.94,17.24 43.98,20.26 43.98,24 C43.98,27.74 40.94,30.76 37.2,30.76 C35.4,30.76 33.68,30.06 32.32,28.7 L30.04,26.68 L27.02,29.36 L29.56,31.6 C31.6,33.62 34.3,34.74 37.2,34.74 C43.16,34.74 48,29.92 48,23.98 C48,18.04 43.16,13.24 37.2,13.24 L37.2,13.24 Z" id="Shape" fill="#98B1C6"></path>
+                                <polygon id="Shape" points="0 0 48 0 48 48 0 48"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

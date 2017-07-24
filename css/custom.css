@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700,900');
+
+.bg-head {
+  background: linear-gradient(to right,rgb(153, 93, 179) 1%,rgb(44, 155, 219)) center center no-repeat fixed;
+  background-size: cover;
+  height: 38vh;
+  width: 100%;
+  position: relative;
+  margin: 0px;
+}
+
+.logo {
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    z-index: 10;
+}
+
+.yvedf1 {
+    background-color: #363636;
+}
+.yved {
+    position: fixed;
+    right: 20px;
+    top: 70px;
+    width: 300px;
+    vertical-align: middle;
+    height: 95px;
+    color: white;
+    padding-top: 1px;
+    padding-left: 15px;
+    font-size: 15px;
+    line-height: 90px;
+    border-radius: 10px;
+    display: none;
+	z-index: 10000;
+}
+.yvedvt {
+    float: left;
+    height: 90px;
+    line-height: 90px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.yvedt {
+    width: 210px;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+}
+.yvedi {
+    float: left;
+    width: 50px!important;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.yvedf2 {
+    background-color: #CD5555;
+}
+
+.modal-link{
+  border: 1px solid rgba(221, 221, 221, 0);
+}
+
+.page-header h1 {
+  text-align: center;
+}
+
+.container .c-info {
+  text-align: center;
+  margin: 20px;
+}
+
+.container .alert-info {
+  text-align: center;
+}
+
+.modal-dialog .modal-title {
+  text-align: center;
+}
+
+.modal-dialog .modal-footer {
+  text-align: center;
+}
+
+.modal-body {
+  text-align: center;
+}
+
+.panel-heading .panel-title {
+  text-align: center;
+}
+
+.group-cnt {
+    margin: 0 0 0 30px;
+}
+
+h1.mainheader {
+  font-family: 'Roboto', sans-serif;
+  font-size: 80px;
+  margin: 0px;
+  font-weight: 900;
+  color: #fff;
+}
+
+h2.postheader {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  margin: 0px;
+  font-weight: 300;
+  color: #fff;  
+}
+
+h2.postheader1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  margin: 0px;
+  font-weight: 700;
+  color: #323232;  
+}
+
+@media only screen and (max-width: 800px) {
+  h1.mainheader {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    margin: 0px;
+    font-weight: 900;
+    color: #fff;
+  }
+  h2.postheader {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin: 0px;
+    font-weight: 300;
+    color: #fff;  
+  }
+  h2.postheader1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin: 0px;
+    font-weight: 700;
+    color: #323232;  
+  }
+}
